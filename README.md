@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Coding and Books
 - 🌱 I’m currently learning DSA and Android Dev.
-- 💞️ I’m looking to collaborate on wherever I can be useful
+- 💞️ I’m looking to collaborate on Android Development Projects
 - 📫 How to reach me twitter- @Abinash6000
 
 
