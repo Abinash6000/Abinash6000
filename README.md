@@ -1,10 +1,12 @@
-# Hi there, I'm Abinash  👋 
-## I'm a Student, Developer!!
+# Hey there! I'm Abinash 👋
 
-- 👀 I’m interested in Coding and Books
-- 🌱 I’m currently learning DSA and Android Dev.
-- 💞️ I’m looking to collaborate on Android Development Projects
-- 📫 How to reach me twitter- @Abinash6000
+## Student 📚 | Developer 💻 | Book Buff 📖
+
+* 👨‍💻 Currently diving deep into DSA and Android (Jetpack Compose is my jam!)
+* 📱 Looking to collaborate on Android projects — let's build cool stuff!
+* 📚 I love decoding logic *and* scriptures — you'll find me in both LeetCode and the Bhagavad Gita.
+* ✨ Always up for learning something new and sharing what I know.
+* 📬 Reach me on Twitter: [@Abinash6000](https://twitter.com/Abinash6000)
 
 
 ### Connect with me:
