@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hey, I’m Abinash</h1>
 
-<h3 align="center">💻 Android Developer | 🎯 Problem Solver | 📖 Seeker of Knowledge</h3>
+<h3 align="center">⚙️ Android Developer | 🧩 Logic Breaker | 🔥 Lifelong Learner</h3>
 
 <p align="center">
 I’m a <b>Computer Science student</b> passionate about crafting Android apps with <b>Jetpack Compose</b> and mastering <b>DSA in Java</b>.<br>
@@ -26,7 +26,7 @@ When I’m not coding, I’m exploring the <b>Bhagavad Gita</b> — decoding lif
 
 ---
 
-### 🧠 About Me
+### ✨ About Me
 - 🧩 Curious mind. Deep thinker. Builder of things that matter.  
 - 💬 I speak in Kotlin and think in algorithms.  
 - 🕉️ Faith meets focus — code with purpose, live with clarity.  
